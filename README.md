@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Seungmi--Data Scientist | Machine Learning Enthusiast
+# Hi there! 👋 I'm Seungmi—Data Scientist | Machine Learning Enthusiast
 
 I'm a passionate and innovative data scientist with over 5 years of experience in advanced data analysis with statistics and machine learning tools. Currently pursuing a PhD in Political Science and MS in Statistics at the University of Illinois at Urbana-Champaign, I specialized in transforming complicated data into actionable insights and communicating these insights with both technical and non-technical audiences. 
 
