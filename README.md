@@ -5,8 +5,8 @@ I'm a passionate and innovative data scientist with over 5 years of experience i
 I have a track record of successfully leading cross-functional projects that bridge the gap between engineering and social science teams, delivering data-driven solutions to solve real-world problems. My work focuses on building scalable machine learning models, optimizing algorithms, and driving innovation with dynamic/adaptive inference. 
 
 ## Areas of Expertise 🧠
-* Machine Learning: Transformer Models | Recurrent Neural Networks (LSRM, GRU) | Natural Language Processing | Dynamic & Adaptive Inference | Feature Engineering
-* Statistical Analysis: Time-Series Analysis | Stochastic Process | Bayesian Statistics | Causal Inference
+* Machine Learning: Explainable AI Frameworks (XAI) | Transformer Models | Recurrent Neural Networks (RNN; LSRM, GRU) | Natural Language Processing (NLP) & Large Language Models (LLMs) | Dynamic & Adaptive Inference | Feature Engineering
+* Statistical Analysis: Causal Inference | Probabilistic Graphical Modeling | Time-Series Analysis | Stochastic Process | Bayesian Statistics 
 * Programming Skills: Python (PyTorch, TensorFlow, Scikit-Learn) | C++ | CUDA | SQL | R | Mathematica | Stata
 * Project Management: Conda | Git | Slack 
 
