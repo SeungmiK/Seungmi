@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Seungmi—Data Scientist | Machine Learning Enthusiast
+# Hi there!👋 I'm Seungmi-Data Scientist & Machine Learning Engineer
 
 I am a passionate and innovative data scientist with over 5 years of experience in advanced data analysis with statistics and machine learning tools. Currently pursuing a PhD in Political Science and MS in Statistics at the University of Illinois at Urbana-Champaign, my work focuses on building explainable ML frameworks, utilizing my robust theoretical knowledge in Statistics such as Probabilistic Graphical Modeling (PGMs), Causal Inference, Time-Series Analysis, and Stochastic Process. I am specialized in transforming complicated data into actionable insights and communicating these insights with both technical and non-technical audiences. I have a track record of successfully leading cross-functional projects that bridge the gap between engineering and social science teams, delivering data-driven solutions to solve real-world problems.
 
